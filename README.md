@@ -5,7 +5,6 @@ A new Flutter project demonstrating the usage of SQLite for local database opera
 ## Screenshots
 
 <img src="screenshot/home.png" alt="SQLite Example Home" height="300"/>
-*Above is the home screen of the app.*
 <img src="screenshot/edit.png" alt="SQLite Example Edit" height="300"/>
 *Above is an example of how data is stored in SQLite.*
 
