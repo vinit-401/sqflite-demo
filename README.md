@@ -1,16 +1,28 @@
 # demo_sqlite
 
-A new Flutter project.
+A new Flutter project demonstrating the usage of SQLite for local database operations.
+
+## Screenshots
+
+![Home Screen](screenshot/home.png)
+*Above is the home screen of the app.*
+
+![SQLite Example](screenshot/edit.png)
+*Above is an example of how data is stored in SQLite.*
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, make sure you have the following installed on your machine:
+- Flutter SDK
+- Dart SDK
+- SQLite Database plugin (`sqflite`)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/vinit-401/sqflite-demo
