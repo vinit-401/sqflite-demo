@@ -1,4 +1,4 @@
-# demo_sqlite
+# demo_sqlite(Flutter SQlite Demo)
 
 A new Flutter project demonstrating the usage of SQLite for local database operations.
 
