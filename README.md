@@ -6,7 +6,7 @@ A new Flutter project demonstrating the usage of SQLite for local database opera
 <div>
 <img src="screenshot/home.png" alt="SQLite Example Home" height="300"/>
 <img src="screenshot/edit.png" alt="SQLite Example Edit" height="300"/>
-</div>
+</div>  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
